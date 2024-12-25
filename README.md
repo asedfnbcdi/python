@@ -1,5 +1,3 @@
-pydata
-
 Project Overview
 
 This is a concise and efficient project designed for data analysis
